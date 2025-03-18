@@ -1,4 +1,4 @@
-# old-black-and-white-camera
+# opencv-old-black-and-white-camera
 
 Video Recorder (영상 녹화기)
 
